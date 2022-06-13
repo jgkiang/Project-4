@@ -30,7 +30,7 @@ urltail += '&showlastupdate=0&showothersales=1&showgenre=1&sort=GL'
 for page in range(1, pages):
     surl = urlhead + str(page) + urltail
     r = urllib.request.urlopen(surl).read()
-    soup = BeautifulSoup(r)
+    soup = BeautifulSoup(r, features="lxml")
     print(f"Page: {page}")
 
     # vgchartz website is really weird so we have to search for
