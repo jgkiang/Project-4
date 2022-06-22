@@ -1,4 +1,4 @@
-# Project #4:
+# Project #4
 ## Marvel / DC
 
 ### Group Members
