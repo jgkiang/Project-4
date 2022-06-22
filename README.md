@@ -2,10 +2,10 @@
 ## Marvel / DC
 
 ### Group Members:
-Christina Chau
-Nitin Dhiman
-Robert Harvey
-Justin Kiang
+Christina Chau | 
+Nitin Dhiman | 
+Robert Harvey | 
+Justin Kiang | 
 Xander Polny
 
 ### Where We Started
