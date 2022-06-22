@@ -9,23 +9,23 @@ Justin Kiang
 Xander Polny
 
 ### Where We Started
-Initially started with looking at Videogames
-Then we began exploring potential movie franchises (Fast & Furious, James Bond, STar Wars)
-Finally, we landed on Marvel/DC - Good/Bad
+Initially started with looking at Videogames.  
+Then we began exploring potential movie franchises (Fast & Furious, James Bond, Star Wars).  
+Finally, we landed on Marvel/DC - Good/Bad.
 
 ### Project Focus
-Can Character traits be an indicator of whether a character is morally "Good" or "Bad"?
+Can Character traits be an indicator of whether a character is morally "Good" or "Bad"?  
 Traits:
-Identity (Secret or Publicly-known)
-Hair Color
-Sex (Biological)
-Gender/Sexual Preference
-Eye Color
-Studio
+Identity (Secret or Publicly-known) | 
+Hair Color | 
+Sex (Biological) |  
+Gender/Sexual Preference | 
+Eye Color | 
+Studio 
 
 ### Data Sources
-We utilized two datasets found on Kaggle
-Marvel-wikia-data.csv
+We utilized two datasets found on Kaggle: 
+Marvel-wikia-data.csv  
 DC-wikia-data.csv
 
 ### Extract, Transform, Load
@@ -57,17 +57,17 @@ Used Google Collab script to:
  Best Scaled ML Models: Decision Tree Scaled, Random Forest Scaled, Extra Trees Scaled (68.22%)
 
 ### Results
-We can condlue that certain characteristics are somewhat (68%) predictive of a comicbook character's moral compass
-Specific traits lean one way or another
+We can condlue that certain characteristics are somewhat (68%) predictive of a comicbook character's moral compass | 
+Specific traits lean one way or another | 
 GSM was the most important feature within the Random Forest model
 
 ### Web Form Using Flask
-Create API from the Postgres database
-Pass form inputs through app using For loop
+Create API from the Postgres database |
+Pass form inputs through app using For loop | 
 Pickle ML Model
 
 ### Limitations
-Time
-Access to specific datasets
-Predictive modelling based on string data provides additional challenges
+Time | 
+Access to specific datasets | 
+Predictive modelling based on string data provides additional challenges | 
 New software/packages we were previously unaware of (PKL)
